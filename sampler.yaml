@@ -1,0 +1,11 @@
+---
+mqtt:
+  host: 192.168.1.250
+  port: 1883
+  auth:
+    username: poppi
+    password: boojee8oHah5agaesaiw
+  subscriptions:
+    - "sampler/#"
+
+device: default
